@@ -1,2 +1,2 @@
- print('excellent')
+print("excellent")
         
